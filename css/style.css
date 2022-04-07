@@ -1,0 +1,11 @@
+@font-face{
+	font-family:"Fredoka";
+	src:url("../fonts/Fredoka-Light.ttf") format("truetype");
+}
+@font-face{
+	font-family:"Myraid Pro";
+	src:url("../fonts/MyriadPro-Light.ttf") format("truetype");
+}
+*{
+	font-family: "Myraid Pro";
+}
